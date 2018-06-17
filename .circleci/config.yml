@@ -27,3 +27,8 @@ jobs:
             . venv/bin/activate
             pip install -U Sphinx
             sphinx-build ./source ./
+    deployment:
+      staging:
+        branch: master
+        heroku:
+          appname: sphinxdeploy
