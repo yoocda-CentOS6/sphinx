@@ -13,12 +13,12 @@
 「機械翻訳導入に失敗する企業、成功する企業~機械翻訳(自動翻訳)
 導入に失敗しない3つのポイント~」をテーマに、機械翻訳セミナーを開催いたしました。
 
-.. image:: ./images/image01.jpg
+.. image:: ./source/images/image01.jpg
 
 今年2月に開催したセミナーでは、機械翻訳導入時のエンジン選定の進め方とポイントについてお話ししました。
 今回のセミナーでは、「機械翻訳（自動翻訳）を導入したけれどもうまく運用できていない…」と言ったような失敗を引き起こさない為のポイントを中心にご説明いたしました。
 
-.. image:: ./images/image02.png
+.. image:: ./source/images/image02.png
 
 セミナーの概要については、`こちら <http://www.science.co.jp/mt/seminar.html>`_ をご覧ください。
 http://www.science.co.jp/mt/seminar/20180418.html
@@ -69,7 +69,7 @@ http://www.science.co.jp/mt/seminar/20180418.html
 ブログ執筆担当
 鈴木 泰弘
 
-.. image:: ./images/image03.jpg
+.. image:: ./source/images/image03.jpg
 
 
 * 前職にてIT系グローバルヘルプデスクのリーダーとして、国内外のメンバー教育やパフォーマンス管理、海外データセンターへの運用移管などに向けたドキュメントの作成や改善、翻訳に携わる。
