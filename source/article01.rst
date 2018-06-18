@@ -78,7 +78,5 @@ http://www.science.co.jp/mt/seminar/20180418.html
 ===== ==== ====
 table test test
 ===== ==== ====
-table test test
-===== ==== ====
-table test tes
+table test text
 ===== ==== ====
